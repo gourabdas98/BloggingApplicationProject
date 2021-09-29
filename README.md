@@ -1,2 +1,2 @@
 # BloggingApplicationProject
-This is a Spring project using SwaggerUI
+This is a Spring Data project using Swagger UI
